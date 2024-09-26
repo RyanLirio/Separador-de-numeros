@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\obj\Debug\net8.0\vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\obj\Debug\net8.0\vetor.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\obj\Debug\net8.0\vetor.AssemblyInfo.cs
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\obj\Debug\net8.0\vetor.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\bin\Debug\net8.0\vetor.exe
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\bin\Debug\net8.0\vetor.deps.json
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\bin\Debug\net8.0\vetor.runtimeconfig.json
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\bin\Debug\net8.0\vetor.dll
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\bin\Debug\net8.0\vetor.pdb
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\obj\Debug\net8.0\vetor.dll
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\obj\Debug\net8.0\refint\vetor.dll
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\obj\Debug\net8.0\vetor.pdb
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\obj\Debug\net8.0\vetor.genruntimeconfig.cache
+C:\Users\RL\desktop\csharp\ProjetosProprios\vetor\obj\Debug\net8.0\ref\vetor.dll
